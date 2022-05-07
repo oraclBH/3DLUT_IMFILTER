@@ -5,4 +5,4 @@ This is a simple and effective 3DLUT algorithm, which can realize different imag
 #开发环境 win10 + vs2015 + opencv3_4
 
 
-https://github.com/oraclBH/3DLUT_IMFILTER/blob/main/Screenshots/cat.jpg
+https://github.com/oraclBH/3DLUT_IMFILTER/blob/main/Screenshots/filter.jpg
